@@ -5,10 +5,9 @@
 - 🌱 I’m atualmente estudando MySQL e java
 - 💬 Sou um jovem em busca de conhecimento pela area
 - 😄 Pronouns ele/dele
-- ⚡ Fun fact:  tenho 16 anos
+- ⚡ Fun fact:  tenho 16
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false&theme=radical)
 
 
 <div style="display: inline_block"><br>
